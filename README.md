@@ -200,7 +200,7 @@ CLIENT_URL=http://localhost:3000
 
 ## **Author**
 👨‍💻 **Prateek**  
-📩 prprateek30@gmail.com  
+📩 prprateek2022@gmail.com  
 📞 9654812384  
 🔗 [LinkedIn](https://www.linkedin.com/in/prateek-rajput-449898191) | [GitHub](https://github.com/Prateek-rajput-007) | [Portfolio](https://prateek-portfolio-007.vercel.app/)
 
