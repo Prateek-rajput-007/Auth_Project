@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your GitHub repository that includes setup instructions, API documentation, security measures, and best practices.
-
----
 
 # **MelodyVerse - Authentication System (MERN Stack)** 🎵
 
@@ -207,6 +204,3 @@ CLIENT_URL=http://localhost:3000
 📞 9654812384  
 🔗 [LinkedIn](https://www.linkedin.com/in/prateek-rajput-449898191) | [GitHub](https://github.com/Prateek-rajput-007) | [Portfolio](https://prateek-portfolio-007.vercel.app/)
 
----
-
-This README provides a **comprehensive guide** to running and testing your authentication system while showcasing **your skills in API development, authentication, and UI design.** Let me know if you need any modifications! 🚀
